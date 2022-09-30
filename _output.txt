@@ -1,0 +1,7 @@
+1. AA from ACC to JFK 0 stops
+2. DL from JFK to CLE 0 stops
+3. US from CLE to MSP 0 stops
+4. DL from MSP to GFK 0 stops
+5. UA from GFK to YWG 0 stops
+Total flights: 5
+Total Additional Stops: 0
